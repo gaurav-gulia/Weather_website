@@ -1,7 +1,6 @@
 # Weather_forecast_website
 A simple website to show the weather forecast of cities all over the world ❗
  
- # Project deployed at
 
 <a href="https://github.com/gaurav-gulia/Weather_website/">Weather website</a>
 
