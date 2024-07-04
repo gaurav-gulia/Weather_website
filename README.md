@@ -1,5 +1,5 @@
 # Weather_forecast_website
-A simple website to show the weather forecast of cities all over the world ❗
+This project is a simple weather website that allows users to input a country and city to get the current weather information. The project uses HTML, CSS, and JavaScript to create the user interface and fetches weather data from the OpenWeatherMap API.
  
 
 <a href="https://github.com/gaurav-gulia/Weather_website/">Weather website</a>
